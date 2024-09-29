@@ -40,7 +40,7 @@ Tic-Tac-Toe is a classic game where two players compete on a 3x3 grid. The first
     ```
 3. Run the program using Java.
     ```bash
-    java TicTacToe
+    java Morpion
     ```
 
 ## Prérequis / Prerequisites
