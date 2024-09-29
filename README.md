@@ -46,6 +46,3 @@ Tic-Tac-Toe is a classic game where two players compete on a 3x3 grid. The first
 ## Prérequis / Prerequisites
 - Java JDK 8 ou version ultérieure / Java JDK 8 or later
 
----
-
-Est-ce que tout est bon pour toi ou souhaites-tu ajouter d'autres détails ?
