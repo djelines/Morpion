@@ -16,9 +16,6 @@ Le morpion est un jeu classique où deux joueurs s'affrontent sur une grille de 
 
 ### Instructions d'utilisation
 1. Clonez ce dépôt sur votre machine locale.
-    ```bash
-    git clone https://github.com/djelines/morpion.git
-    ```
 2. Naviguez vers le répertoire contenant le fichier compilé :
     ```bash
     cd out/production/exo
@@ -49,9 +46,6 @@ Tic-Tac-Toe is a classic game where two players compete on a 3x3 grid. The first
 
 ### How to Use
 1. Clone this repository on your local machine.
-    ```bash
-    git clone https://github.com/djelines/tictactoe.git
-    ```
 2. Navigate to the directory containing the compiled file:
     ```bash
     cd out/production/exo
